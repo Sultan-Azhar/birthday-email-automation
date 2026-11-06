@@ -1,0 +1,9 @@
+EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
+OLLAMA_MODEL_NAME = "llama3.2"  # Aapke downloaded model ka naam
+CHROMA_DIR = "chroma_db"
+COLLECTION_NAME = "my_private_cv"
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 80
+RETRIEVAL_K = 4
+PAGE_TITLE = "My Private CV AI"
+PAGE_ICON = "🤖"
